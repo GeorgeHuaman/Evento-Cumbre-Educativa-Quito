@@ -13,16 +13,18 @@ MonoBehaviour:
   m_Name: Space_1
   m_EditorClassIdentifier: 
   version: 1
-  sku: 
+  sku: 6792ae2ca4b288970e5d13db
   packageName: Evento Cumbre Educativa
-  thumbnail: {fileID: 2800000, guid: ec6e61a8993a64290991cfc322ec43ea, type: 3}
-  savedProjectSettings: {fileID: 0}
-  worldID: 
+  thumbnail: {fileID: 2800000, guid: 7b2c124b9ea647743879038fe7a70425, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  worldID: 0fxf4zc2ep7892aybysti
   scene: {fileID: 102900000, guid: 3a1973ab12bed6f4ca83e1a7877ebb50, type: 3}
-  csharpAssembly: {fileID: 0}
+  csharpAssembly: {fileID: 5897886265953266890, guid: 7260f9afd6461b14692f32b21bafefea,
+    type: 3}
   embeddedPackageAssets: []
   networkPrefabs: []
   settings:
     serverInstancingEnabled: 1
     serverCapacitySetting: 1
-    serverInstanceCapacity: 16
+    serverInstanceCapacity: 50
